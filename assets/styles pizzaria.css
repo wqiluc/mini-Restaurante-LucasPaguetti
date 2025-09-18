@@ -1,0 +1,55 @@
+img{width:80px}
+main{margin-top: 10%;}
+
+PAGE PRINCIPAL --
+
+body{background-color: rgb(0, 0, 0); color: white;}
+    h1{color:rgb(255, 0, 0);}
+    h2{color: rgb(255, 253, 253); font-size: medium;}
+    h4{color:rgb(255, 0, 0)}
+    a[href="./Cardápio - Pizzas e Alacarte.html"]:link{
+    color: rgb(255, 0, 0);}
+    a[href="./Contatos.html"]:link{
+    color: rgb(255, 2, 2);}
+    a[href="./Cardápio - Pizzas e Alacarte.html"]:visited{
+    color: rgb(155, 2, 243);}
+    a[href="./Contatos.html"]:visited{
+    color: rgb(160, 5, 250);}
+    
+CARDÁPIO:PIZZAS E ALACARTE --
+
+
+    body{background-color: rgb(0, 0, 0); color: rgb(0, 0, 0);}
+    h1{color: rgb(255, 255, 255);}
+    table, th,td{color: rgb(0, 0, 0); background-color:rgb(247, 247, 247); border: 1px solid black;border-collapse: collapse;}
+    a[href="./index-Page Principal.html"]:link{
+    color: rgb(255, 0, 0);}
+    a[href="./index-Page Principal.html"]:visited{
+    color: rgb(255, 0, 0);}
+    a[href="./Contatos.html"]:link{
+    color: rgb(161, 6, 252);}
+    a[href="./Contatos.html"]:visited{
+    color: rgb(157, 5, 245);}
+
+MEIOS DE CONTATO --
+
+body{background-color: rgb(12, 10, 10); color: rgb(255, 255, 255);}
+    h1{color: rgb(255, 0, 0);}
+    h2{color: rgb(12, 177, 12); font-size: medium;}
+    h3{color: rgb(243, 239, 25); font-size: smaller;}
+    a[href="./index-Page Principal.html"]:link{
+    color: rgb(255, 0, 0);}
+    a[href="./index-Page Principal.html"]:visited{
+    color: rgb(247, 12, 12);}
+    a[href="https://www.instagram.com/brazzettuscaxanga/"]:link{
+    color: rgb(250, 123, 4);}
+    a[href="https://www.instagram.com/brazzettuscaxanga/"]:visited{
+    color: rgb(255, 123, 0);}
+    a[href="https://linktr.ee/brazzettuscaxanga_"]:link{
+    color: rgb(239, 255, 9);}
+    a[href="https://linktr.ee/brazzettuscaxanga_"]:visited{
+    color: rgb(239, 255, 9);}
+    a[href="./Cardápio - Pizzas e Alacarte.html"]:link{
+    color: rgb(162, 0, 255);}
+    a[href="./Cardápio - Pizzas e Alacarte.html"]:visited{
+    color: rgb(152, 2, 240);}
